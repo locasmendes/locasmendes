@@ -7,8 +7,13 @@
 
 ## I'm a Systems Development student 💻 in Brazil 🌎
 
-- 🔭 I’m currently working on Frontend Applications with Flutter, Javascript, HTML5, CSS3, Backend Applications with Node APIs using Express and PHP and Automated Tests.  
+- 🔭 I’m currently working on Frontend Applications with Vue.js, Javascript, HTML5, CSS3, Backend Applications with Node APIs using Express and PHP.
 
-- 🌱 I’m currently learning about Flutter BLoC, Laravel PHP Framework and Node APIs. Also, I'm learning something about UX/UI, design and Machine Learning with Python.
+- 🌱 I’m currently learning about React Native, Laravel PHP Framework and Node APIs. Also, I'm learning something about UX/UI, design and Machine Learning with Python.
 
 - ⚡ Fun fact: I love to learn new things, feel free to connect with me so we can share some ideas.
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=locasmendes&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
