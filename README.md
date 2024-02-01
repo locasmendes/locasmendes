@@ -7,7 +7,7 @@
 
 ## I'm a Systems Development student 💻 in Brazil 🌎
 
-- 🔭 I’m currently working on Frontend Applications with Vue.js, Javascript, HTML5, CSS3, Backend Applications with Node APIs using NestJS, Express, GO and PHP.
+- 🔭 I’m currently working on Frontend Applications with Vue.js, Javascript, HTML5, CSS3, Backend Applications with Node APIs using NestJS, Express and PHP (Laravel/HyperF).
 
 - 🌱 I’m currently learning about NestJS, Kafka, Event Oriented Architecture, Laravel PHP Framework and Node APIs. Also, I'm learning something about UX/UI.
 
